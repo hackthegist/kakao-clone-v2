@@ -25,7 +25,7 @@
 .nav .nav__badge {
   position: absolute;
   top: -7px;
-  right: -7px;
+  right: -10px;
   color: white;
   background-color: #dc5d46;
   width: 18px;
