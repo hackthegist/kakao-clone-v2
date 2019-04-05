@@ -46,3 +46,26 @@
 .chat .chat__timestamp {
   font-size: 13px;
 }
+
+.friend .chat__now-listening {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.chat__now-listening .chat__count {
+  align-self: flex-end;
+  margin-top: 5px;
+}
+
+.friend__column .chat__count {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 18px;
+  height: 18px;
+  border-radius: 50%;
+  font-size: 12px;
+  background-color: #dc5d46;
+  color: white;
+}
