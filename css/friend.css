@@ -26,6 +26,10 @@
   align-items: center;
 }
 
+.friend .friend__column i {
+  cursor: pointer;
+}
+
 .friend__content .friend__name {
   display: block;
   margin-bottom: 5px;
