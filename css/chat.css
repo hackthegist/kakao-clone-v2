@@ -13,6 +13,8 @@
   padding: 30px 20px;
   top: 30px;
   background-color: rgba(255, 255, 255, 0.7);
+  box-shadow: rgba(0, 0, 0, 0.3) 0px 8px 16px -8px,
+    rgba(0, 0, 0, 0.024) 0px -6px 16px -6px;
 }
 
 .chats-body .chat__write {
@@ -21,6 +23,7 @@
 
 .chat-screen {
   background-image: url("../images/chatBg.png");
+  padding-top: 40px;
   min-height: 120vh;
 }
 
